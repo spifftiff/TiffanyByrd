@@ -3,8 +3,8 @@
 Hi, I’m **Tiffany Byrd**, an aspiring data scientist with a strong background in data analysis, machine learning, and software testing. I am passionate about solving real-world problems by turning raw data into actionable insights.
 
 ## Skills and Tools 🛠️
-- **Programming**: Python, R, SQL, Java
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Programming**: Python, SQL, PowerShell, and Java
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch
 - **Tools**: Jupyter Notebooks, Git, Tableau, Power BI
 - **Specialties**: Data Cleaning, Exploratory Data Analysis, Predictive Modeling
 
