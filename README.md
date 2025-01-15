@@ -10,7 +10,7 @@ Hi, I’m **Tiffany Byrd**, an aspiring data scientist with a strong background 
 
 ## Featured Projects 📂
 
-### [Predicting Housing Prices](https://github.com/TiffanyByrd/Housing-Price-Prediction)
+### [Predicting Housing Prices](https://github.com/spifftiff/Housing-Prediction)
 - Built and evaluated regression models to predict house prices.
 - Used Python for data cleaning, feature engineering, and model building.
 
