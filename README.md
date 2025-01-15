@@ -14,8 +14,9 @@ Hi, I’m **Tiffany Byrd**, an aspiring data scientist with a strong background 
 - Built and evaluated regression models to predict house prices.
 - Used Python for data cleaning, feature engineering, and model building.
 
-### [Customer Churn Analysis](https://github.com/TiffanyByrd/Customer-Churn)
-- Performed exploratory data analysis and trained classification models to predict customer churn.
+### [Predicting Voter Turnout](https://github.com/spifftiff/VoterTurnoutCBS)
+- Built and evaluated several models to predict voter turnout.
+- Used Python for data cleaning, feature engineering, and model building.
 
 ### [COVID-19 EDA](https://github.com/TiffanyByrd/COVID19-EDA)
 - Analyzed global COVID-19 data to uncover trends and patterns using visualization libraries.
